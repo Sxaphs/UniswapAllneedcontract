@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.9+commit.e5eed63a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"muticall.sol": "MultiCallOps"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"muticall.sol": {
+			"keccak256": "0x8c2ecbfd188718ca0d79fe0038d0c78aab3b3d549d53db2eabb661c6181a5488",
+			"license": "BUSL-1.1",
+			"urls": [
+				"bzz-raw://88be9774ffc8c68c84ad50074dabcdb32cfe8a510b4ed9865af8703d6135dbf7",
+				"dweb:/ipfs/QmTsGwpuBH17bLjfkKMUgoNZh2RbsV7s5ou4bWdgMJiXNz"
+			]
+		}
+	},
+	"version": 1
+}
